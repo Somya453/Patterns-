@@ -1,10 +1,13 @@
-    for (int i = 1; i <= columns; i++){
-    {   for (int j = 1; j <= rows; j++)
-    {
-        cout<<"+";
-    }
-    cout<<endl;
-        
-    }
-}
-    return 0;
+int main(){
+//     int a;
+//     cin>>a;
+//     for (int i = 0; i < a; i++)
+//     {
+//         int n;
+//         cin>>n;
+//         cout<<"The value of n is: "<<n<<endl;
+//         tri(n);
+//     }
+    
+    
+// }
