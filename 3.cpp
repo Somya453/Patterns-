@@ -6,7 +6,7 @@ void tri(int n){
     for(int i=1; i<=n; i++){
         for (int j = 1; j <= i; j++)
         {
-            cout<<"i"<<" ";
+            cout<<i<<" ";
         }
         cout<<endl;
     }
@@ -20,7 +20,7 @@ int main(){
     {
         int n;
         cin>>n;
-        cout<<"The value of n is: "<<n<<endl;
+        cout<<"no. of rows is: "<<n<<endl;
         tri(n);
     }
     
