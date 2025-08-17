@@ -7,15 +7,7 @@ int main(){
         cout<<i;
     
     }
-    cout<<'\n';
-    
-
-    
-
-        /* code */
-    
-    
-        /* code */
+    cout<</n;
     }
 
     return 0;
