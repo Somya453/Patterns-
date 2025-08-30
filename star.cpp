@@ -9,13 +9,6 @@ int main(){
     }
     cout<<'\n';
     
-
-    
-
-        /* code */
-    
-    
-        /* code */
     }
 
     return 0;
