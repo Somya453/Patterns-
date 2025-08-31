@@ -7,7 +7,7 @@ int main(){
         cout<<i;
     
     }
-    cout<</n;
+    cout<<endl;
     }
 
     return 0;

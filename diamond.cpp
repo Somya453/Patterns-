@@ -23,7 +23,7 @@ int main(){
         }
 
         // Step 4: New line
-        cout << "\n";
+        cout << endl;
     }
 
     return 0;
